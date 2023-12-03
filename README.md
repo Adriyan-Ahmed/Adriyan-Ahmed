@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/Fbyd70M/html-system-website-concept-23-2150376756.jpg" alt="Banner" width="100%" height="400">
 </p>
 <br>
-<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🙋🏻‍♀️ HI, I'm Adriyan Ahmed! 👩🏻‍💼</h1>
+<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🙋🏻‍♂️ HI, I'm <img src="https://i.ibb.co/DR3Gfbh/4r7-Rcu-Logo-Makr.png"> 👨🏻‍💼</h1>
 <hr>
 <br>
 <br>
@@ -10,7 +10,7 @@
 <h2 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;"> __About Me__ </h2>
 <br><br>
 <h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">⚡ Introduction ⚡️</h3>
-<br>I'm Adriyan Ahmed, a passionate MERN stack web developer from Bangladesh 🇧🇩. Currently a 10th-grade high school student 👨‍🎓, I recently completed a comprehensive Web Development course from [Programming Hero](https://www.programming-hero.com) . As a curious learner, coding has become my true passion. I'm passionate about creating web applications that not only function seamlessly but also provide a delightful user experience.<br><br>
+<br>I'm Adriyan Ahmed, a passionate MERN stack web developer from Bangladesh 🇧🇩. Currently a 10th-grade high school student 👨‍🎓, I recently completed a comprehensive Web Development course from [Programming Hero](https://www.programming-hero.com) 👨🏻‍💻. As a curious learner, coding has become my true passion. I'm passionate about creating web applications that not only function seamlessly but also provide a delightful user experience.<br><br>
 <h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">💻 Technologies & Skills 💻</h3><br><p style="font-size: 24px">👨‍💼 I specialize in :</p><br>- HTML 5<br>- CSS 3, Tailwind CSS<br>- GitHub<br>- JavaScript (ES6)<br>- React, React Router Dom<br>- Firebase<br>- Express, Node.js, MongoDB<br>- JWT<br><br>I proudly hold a web development certificate from Programming Hero, solidifying my skills as a junior web developer.<br><br>## 🌐 Where to Find Me<br>Feel free to connect with me on:<br>- [LinkedIn](Your LinkedIn Profile Link)<br>- [Facebook](Your Facebook Profile Link)<br><br>## 🌱 Current Focus<br>Currently exploring new possibilities in web development, I'm enthusiastic about honing my skills and contributing to innovative projects. Coding is not just my profession; it's a journey of continuous improvement and creative problem-solving.<br><br>## 🏆 Certifications<br>- Web Development Certificate from Programming Hero<br><br>## 📫 Let's Connect!<br>I'm always open to new connections and collaborations. If you share a passion for web development or just want to chat, reach out on LinkedIn or Facebook.<br><br>Happy Coding! 💻✨
 
 
