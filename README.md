@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/Fbyd70M/html-system-website-concept-23-2150376756.jpg" alt="Banner" width="100%" height="400">
 </p>
 <br>
-<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🙋🏻‍♂️ HI, I'm<p align="center" style="margin-top: -20px;"> <img style="margin-top:5px" src="https://i.ibb.co/DR3Gfbh/4r7-Rcu-Logo-Makr.png" height="30"></p> 👨🏻‍💼</h1>
+<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🙋🏻‍♂️ HI, I'm<p style="margin-top: -20px;"> <img style="margin-top:5px" src="https://i.ibb.co/DR3Gfbh/4r7-Rcu-Logo-Makr.png" height="30"></p> 👨🏻‍💼</h1>
 <hr>
 <br>
 <br>
