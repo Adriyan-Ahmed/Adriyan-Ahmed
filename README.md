@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Fbyd70M/html-system-website-concept-23-2150376756.jpg" alt="Banner" width="800" height="400">
+  <img src="https://i.ibb.co/Fbyd70M/html-system-website-concept-23-2150376756.jpg" alt="Banner" width="100%" height="400">
 </p>
 
 <h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">Hi, I'm AD_Riyan Ahmed! 👋</h1>
