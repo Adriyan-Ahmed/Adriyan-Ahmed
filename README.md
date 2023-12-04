@@ -2,8 +2,7 @@
   <img src="https://i.ibb.co/Fbyd70M/html-system-website-concept-23-2150376756.jpg" alt="Banner" width="100%" height="400">
 </p>
 <br>
-<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;"><img style="margin-bottom: -10px;" src="https://i.ibb.co/CtynWrf/8u5-REF-Logo-Makr.png" height="50"> 👨🏻‍💼</h1>
-<hr>
+<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;"><img style="margin-bottom: -10px;" src="https://i.ibb.co/CtynWrf/8u5-REF-Logo-Makr.png" height="50"></h1>
 <br>
 <br>
 <br>
