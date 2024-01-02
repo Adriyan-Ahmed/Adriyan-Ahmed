@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-567c77a2c1.gif" alt="Banner" width="100%" height="400">
+  <img src="https://i.ibb.co/0f8XtqS/Blue-and-purple-Neon-Thanks-For-Watching-Video-Outro.gif" alt="Banner" width="100%" height="400">
 </p>
 <br>
 <h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;"><img style="margin-bottom: -10px;" src="https://i.ibb.co/CtynWrf/8u5-REF-Logo-Makr.png" height="50"></h1>
 <br>
 <br>
 <br>
-<h2 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;"> __About Me__ </h2>
+<h1 align="center" style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;"> __About Me__ </h1>
 <br><br>
-<h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">⚡ Introduction ⚡️</h3>
-I'm Adriyan Ahmed, a passionate MERN stack web developer from Bangladesh. Currently a 10th-grade high school student 👨‍🎓, I recently completed a comprehensive Web Development course from <a href="https://www.programming-hero.com">Programming Hero</a> 👨🏻‍💻. As a curious learner, coding has become my true passion. I'm passionate about creating web applications that not only function seamlessly but also provide a delightful user experience.<br><br>
-<h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">💻 Technologies & Skills 💻</h3><p style="font-size: 24px;">👨‍💼 I specialize in :</p>- 𝗛𝗧𝗠𝗟 5<br>- 𝗖𝗦𝗦 3, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦<br>- 𝗚𝗶𝘁𝗛𝘂𝗯<br>- 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 (𝗘𝗦6)<br>- 𝗥𝗲𝗮𝗰𝘁, 𝗥𝗲𝗮𝗰𝘁 𝗥𝗼𝘂𝘁𝗲𝗿 𝗗𝗼𝗺<br>- 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲<br>- 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕<br>- 𝗝𝗪𝗧<br><br> 
+<h2>⚡ Introduction ⚡️</h2>
+I'm Jubayer Khan , a passionate MERN stack web developer from Bangladesh. Currently a 10th-grade high school student 👨‍🎓, I recently completed a comprehensive Web Development course from <a href="https://www.programming-hero.com">Programming Hero</a> 👨🏻‍💻. As a curious learner, coding has become my true passion. I'm passionate about creating web applications that not only function seamlessly but also provide a delightful user experience.<br><br>
+<h2>💻 Technologies & Skills 💻</h2><p>🏆 Expertice :</p>• 𝗛𝗧𝗠𝗟 𝟱<br>• 𝗖𝗦𝗦 𝟯<br>• 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 ( 𝐄𝐒𝟔 )<br>• 𝐑𝐞𝐚𝐜𝐭𝐉𝐬<br><br> 
 <h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🌱 Current Focus 🌱</h3>Currently exploring new possibilities in web development 🎗️, I'm enthusiastic about honing my skills and contributing to innovative projects 🎢. Coding is not just my profession 😊; 🎯 it's a journey of continuous improvement and creative problem-solving 🛣️.<br><br><h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🏆 Certifications 🏆</h3>I proudly hold a web development certificate from Programming Hero 🏅, solidifying my skills as a junior web developer 👨🏻‍💻. 
 - Web Development Certificate from Programming Hero<br><br><h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">📠 Let's Connect! 📲</h3>I'm always open to new connections and collaborations 😊. If you share a passion for web development or just want to chat, reach out on LinkedIn or Facebook.<br><br><h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">💻✨ Happy Coding! 💻✨</h3>
 
