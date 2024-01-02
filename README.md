@@ -10,9 +10,9 @@
 <br><br>
 <h2>⚡ Introduction ⚡️</h2>
 I'm Jubayer Khan , a passionate MERN stack web developer from Bangladesh. Currently a 10th-grade high school student 👨‍🎓, I recently completed a comprehensive Web Development course from <a href="https://www.programming-hero.com">Programming Hero</a> 👨🏻‍💻. As a curious learner, coding has become my true passion. I'm passionate about creating web applications that not only function seamlessly but also provide a delightful user experience.<br><br>
-<h2>💻 Technologies & Skills 💻</h2>• HTML5 (Expertise)    • CSS3 (Expertise)   • Tailwind CSS (Expertise)   • JavaScript ( ES6 ) (Expertise)  
-• ReactJs (Expertise)   • NodeJS (Comfortable)   • ExpressJS (Comfortable)   • MongoDB(Comfortable)
-• Material UI (Familiar)   • NextJs (Familiar)   • JWT (Comfortable)   • Mongoose (Familiar)
+<h2>💻 Technologies & Skills 💻</h2>• HTML5 (Expertise)    <br>• CSS3 (Expertise)   <br>• Tailwind CSS (Expertise)   <br>• JavaScript ( ES6 ) (Expertise) <br> 
+• ReactJs (Expertise)   <br>• NodeJS (Comfortable)  <br> • ExpressJS (Comfortable)   <br>• MongoDB(Comfortable)
+• Material UI (Familiar)   <br>• NextJs (Familiar)   <br>• JWT (Comfortable)  <br> • Mongoose (Familiar)
 <br><br> 
 <h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🌱 Current Focus 🌱</h3>Currently exploring new possibilities in web development 🎗️, I'm enthusiastic about honing my skills and contributing to innovative projects 🎢. Coding is not just my profession 😊; 🎯 it's a journey of continuous improvement and creative problem-solving 🛣️.<br><br><h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">🏆 Certifications 🏆</h3>I proudly hold a web development certificate from Programming Hero 🏅, solidifying my skills as a junior web developer 👨🏻‍💻. 
 - Web Development Certificate from Programming Hero<br><br><h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">📠 Let's Connect! 📲</h3>I'm always open to new connections and collaborations 😊. If you share a passion for web development or just want to chat, reach out on LinkedIn or Facebook.<br><br><h3 style="font-family: 'Lexend Deca', 'Inter', 'Roboto' sans-serif;">💻✨ Happy Coding! 💻✨</h3>
